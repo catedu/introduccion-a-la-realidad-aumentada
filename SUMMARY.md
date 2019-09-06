@@ -7,7 +7,6 @@
 * [Recursos Educativos Abiertos (REA)](ra-recursos-educativos-abiertos-rea.md)
 * [Licencias CC](ra-licencias-cc.md)
 * [Normativa para referenciar](ra-normativa-para-referenciar.md)
--->
 
 ### 1. Introducción a la Realidad Aumentada
 * [Historia](conceptos-basicos-historia.md)
@@ -18,19 +17,22 @@
 * [Nivel 4](conceptos-basicos-nivel-4.md)
 * [Otros niveles](conceptos-basicos-otros-niveles.md)
 * [RA: Para profundizar](ra-para-profundizar.md)
+-->
+
+### 2. Apps y libros de Realidad Aumentada
+* [APP´s en Ed. Infantil](apps-de-realidad-aumentada-ed-infantil.md)
+* [APP´s en Ed. Primaria](apps-de-realidad-aumentada-ed-primaria.md)
+* [APP´s en Ed. Secundaria-Bachillerato](apps-de-realidad-aumentada-ed-secundaria-bachillerato.md)
+* [Otras apps](apps-de-realidad-aumentada-otras-apps.md)
+* [RRSS basadas en RA](apps-de-realidad-aumentada-rrss-basadas-en-ra.md)
+* [Libros de Educación Primaria](libros-de-realidad-aumentada-educacion-primaria.md)
+* [Libros de Educación Secundaria-Bachillerato](libros-de-realidad-aumentada-educacion-secundaria-bachillerato.md)
+* [Libros de Educación Superior](libros-de-realidad-aumentada-educacion-superior.md)
+* [Libros de lectura](libros-de-realidad-aumentada-libros-de-lectura.md)
+* [Otros libros](libros-de-realidad-aumentada-otros.md)
+* [Apps y libros: Para propundizar](ra-para-propundizar.md)
 
 <!--
-* [APP´s de Realidad Aumentada: Ed. Infantil](apps-de-realidad-aumentada-ed-infantil.md)
-* [APP´s de Realidad Aumentada: Ed. Primaria](apps-de-realidad-aumentada-ed-primaria.md)
-* [APP´s de Realidad Aumentada: Ed. Secundaria-Bachillerato](apps-de-realidad-aumentada-ed-secundaria-bachillerato.md)
-* [APP´s de Realidad Aumentada: Otras apps](apps-de-realidad-aumentada-otras-apps.md)
-* [APP´s de Realidad Aumentada: RRSS basadas en RA](apps-de-realidad-aumentada-rrss-basadas-en-ra.md)
-* [Libros de Realidad Aumentada: Educación Primaria](libros-de-realidad-aumentada-educacion-primaria.md)
-* [Libros de Realidad Aumentada: Educación Secundaria-Bachillerato](libros-de-realidad-aumentada-educacion-secundaria-bachillerato.md)
-* [Libros de Realidad Aumentada: Educación Superior](libros-de-realidad-aumentada-educacion-superior.md)
-* [Libros de Realidad Aumentada: Libros de lectura](libros-de-realidad-aumentada-libros-de-lectura.md)
-* [Libros de Realidad Aumentada: Otros](libros-de-realidad-aumentada-otros.md)
-* [RA: Para propundizar](ra-para-propundizar.md)
 * [Recursos: Códigos QR](recursos-codigos-qr.md)
 * [Recursos: Creator](recursos-creator.md)
 * [Recursos: Plataformas de Creación](recursos-plataformas-de-creacion.md)

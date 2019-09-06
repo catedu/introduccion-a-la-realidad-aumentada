@@ -11,8 +11,11 @@ En esta etapa destacamos algunas de las aplicaciones más interesantes que a niv
 **[![](img/unnamed.png)ZooKazam](http://www.zookazam.com/)**: Esta app nos permite conocer el ecosistema o alimentación de una gran cantidad de animales. Por otro lado, y gracias a la tecnología de la RA, esta app nos proporciona una interactividad con el escenario presentado única en su categoría. Está disponible en varias plataformas.
 
   
+<div style="width:50px;">
+![](https://moodle.catedu.es/pluginfile.php/5105/mod_book/chapter/14/photo.jpg)
+</div>
 
-**![](https://moodle.catedu.es/pluginfile.php/5105/mod_book/chapter/14/photo.jpg)[Storyfab](http://www.story-fab.com/)**: Esta app nos permite crear historias animadas en diversos escenarios mediante el uso de la RA. Usar personajes o incluir objetos de decoración son algunas de las posibilidades de esta herramienta. De momento solo está disponible para IOS.
+<img src="https://moodle.catedu.es/pluginfile.php/5105/mod_book/chapter/14/photo.jpg" alt="Storyfab" width="50"/>  **[Storyfab](http://www.story-fab.com/)**: Esta app nos permite crear historias animadas en diversos escenarios mediante el uso de la RA. Usar personajes o incluir objetos de decoración son algunas de las posibilidades de esta herramienta. De momento solo está disponible para IOS.
 
   
 
