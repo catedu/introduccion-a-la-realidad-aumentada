@@ -17,7 +17,7 @@ En este apartado realizaremos una pequeña muestra de algunas de las aplicacione
 
   
 
-**[![](img/Captura%20de%20pantalla%202017-08-24%20a%20las%200.06.21.png)](https://www.edf.fr/)**
+<img src='img/Captura%20de%20pantalla%202017-08-24%20a%20las%200.06.21.png' alt='' width='50'/>](https://www.edf.fr/)**
 
 **[  
 ](https://www.edf.fr/)**
@@ -26,10 +26,10 @@ En este apartado realizaremos una pequeña muestra de algunas de las aplicacione
   
   
 
-**[![](img/Captura%20de%20pantalla%202017-08-24%20a%20las%200.14.07.png)  
+<img src='img/Captura%20de%20pantalla%202017-08-24%20a%20las%200.14.07.png' alt='' width='50'/>  
 Carbons VR](http://educhem-vr.com/)**: App que nos permite conocer en profundidad las diversas características de elementos basados en el carbono, como por ejemplo los nanotubos. Disponible en: [**ANDROID**](https://play.google.com/store/apps/details?id=com.EduChem&hl=es) e [**IOS**](https://itunes.apple.com/mx/app/learning-carbons-vr/id1180338905?l=en&mt=8).
 
-**[![](img/Captura%20de%20pantalla%202017-08-24%20a%20las%200.08.16.png)  
+<img src='img/Captura%20de%20pantalla%202017-08-24%20a%20las%200.08.16.png' alt='' width='50'/>  
 Spotlight Stories](https://atap.google.com/spotlight-stories/)**: Contar historias ahora es realmente atractivo. Esta app permite leer diversos cuentos en formato de 360 grados o mediante la realidad virtual. Disponible en: **[ANDROID](https://play.google.com/store/apps/details?id=com.google.android.spotlightstories&hl=en)** e [**IOS**](https://itunes.apple.com/us/app/google-spotlight-stories/id974739483?mt=8)  
 
   

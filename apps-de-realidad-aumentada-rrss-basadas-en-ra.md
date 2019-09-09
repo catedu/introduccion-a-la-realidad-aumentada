@@ -5,7 +5,7 @@
 En este capítulo veremos algunas de las redes sociales que utilizan la realidad aumentada como reclamo para su innovador uso.
 
   
-![](img/Captura%20de%20pantalla%202017-08-26%20a%20las%203.23.39.png)
+![](img/qrs.png)
 
 *   **[MyBrana](http://www.mybrana.com/)**: Puedes tomar imágenes y usar sus máscaras para personalizarlas.
 *   **[Taggar](http://www.taggarapp.com/)**: Red social en la que podrás compartir tus vídeos o imágenes con otros usuarios.
