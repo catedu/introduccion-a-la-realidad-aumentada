@@ -17,6 +17,8 @@
 * [Otros niveles](conceptos-basicos-otros-niveles.md)
 * [Para profundizar](19ra-para-profundizar.md)
 
+---
+
 ### 2. Apps de Realidad Aumentada
 * [APP´s en Ed. Infantil](apps-de-realidad-aumentada-ed-infantil.md)
 * [APP´s en Ed. Primaria](apps-de-realidad-aumentada-ed-primaria.md)
@@ -30,30 +32,41 @@
 * [Libros de Educación Superior](libros-de-realidad-aumentada-educacion-superior.md)
 * [Libros de lectura](libros-de-realidad-aumentada-libros-de-lectura.md)
 * [Otros libros](libros-de-realidad-aumentada-otros.md)
-* [Para profundizar](30ra-para-propundizar.md)
+* [Para profundizar](ra-para-propundizar.md)
 
-<!--
-* [Recursos: Códigos QR](recursos-codigos-qr.md)
-* [Recursos: Creator](recursos-creator.md)
-* [Recursos: Plataformas de Creación](recursos-plataformas-de-creacion.md)
-* [Recursos: Códigos QR](recursos-codigos-qr.md)
-* [Recursos: Creator](recursos-creator.md)
-* [Recursos: Plataformas de Creación](recursos-plataformas-de-creacion.md)
-* [Ejemplos didácticos: Guía de trabajo](ejemplos-didacticos-guia-de-trabajo.md)
-* [Ejemplos didácticos: Uso de códigos QR](ejemplos-didacticos-uso-de-codigos-qr.md)
-* [Ejemplos didácticos: Uso de Creator](ejemplos-didacticos-uso-de-creator.md)
-* [Videotutoriales: Códigos QR](videotutoriales-codigos-qr.md)
-* [Videotutoriales: Creator & Scope](videotutoriales-creator-scope.md)
-* [RA: Para profundizar](ra-para-profundizar.md)
-* [RA: Introducción a la geolocalización](ra-introduccion-a-la-geolocalizacion.md)
-* [Videotutoriales: Registro en GeoAumentaty](videotutoriales-registro-en-geoaumentaty.md)
-* [Videotutoriales: Creación de la Ruta](videotutoriales-creacion-de-la-ruta.md)
-* [Videotutoriales: Creación del POI](videotutoriales-creacion-del-poi.md)
-* [Videotutoriales: App GeoAumentaty](videotutoriales-app-geoaumentaty.md)
-* [RA: Para profundizar](ra-para-profundizar.md)
-* [RA: Introducción a la Realidad Virtual](ra-introduccion-a-la-realidad-virtual.md)
-* [RA: Tipos de gafas de RV](ra-tipos-de-gafas-de-rv.md)
-* [RA: App´s de Realidad Virtual](ra-apps-de-realidad-virtual.md)
-* [RA: Para profundizar](ra-para-profundizar.md)
-* [RA: Créditos](ra-creditos.md)
--->
+### 4. Recursos
+* [Códigos QR](recursos-codigos-qr.md)
+* [Creator](recursos-creator.md)
+* [Plataformas de Creación](recursos-plataformas-de-creacion.md)
+* [Códigos QR](recursos-codigos-qr.md)
+* [Creator](recursos-creator.md)
+* [Plataformas de Creación](recursos-plataformas-de-creacion.md)
+
+### 5. Ejemplos didácticos
+* [Guía de trabajo](ejemplos-didacticos-guia-de-trabajo.md)
+* [Uso de códigos QR](ejemplos-didacticos-uso-de-codigos-qr.md)
+* [Uso de Creator](ejemplos-didacticos-uso-de-creator.md)
+
+### 6. Video tutoriales
+* [Códigos QR](videotutoriales-codigos-qr.md)
+* [Creator & Scope](videotutoriales-creator-scope.md)
+* [Para profundizar](42ra-para-profundizar.md)
+
+---
+
+### 7. Geolocalización
+* [Introducción a la geolocalización](ra-introduccion-a-la-geolocalizacion.md)
+* [Registro en GeoAumentaty](videotutoriales-registro-en-geoaumentaty.md)
+* [Creación de la Ruta](videotutoriales-creacion-de-la-ruta.md)
+* [Creación del POI](videotutoriales-creacion-del-poi.md)
+* [App GeoAumentaty](videotutoriales-app-geoaumentaty.md)
+* [RA: Para profundizar](48ra-para-profundizar.md)
+
+### 8. Realidad Virtual
+* [Introducción a la Realidad Virtual](ra-introduccion-a-la-realidad-virtual.md)
+* [Tipos de gafas de RV](ra-tipos-de-gafas-de-rv.md)
+* [App´s de Realidad Virtual](ra-apps-de-realidad-virtual.md)
+* [Para profundizar](ra-para-profundizar.md)
+
+---
+* [Créditos](crditos-buenos.md)
