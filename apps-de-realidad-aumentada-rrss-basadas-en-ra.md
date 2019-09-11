@@ -2,7 +2,9 @@
 
 ### 5\. RRSS basadas en RA
 
-En este capítulo veremos algunas de las redes sociales que utilizan la realidad aumentada como reclamo para su innovador uso.
+En este capítulo veremos algunas de las redes sociales que utilizan la realidad aumentada como reclamo para su innovador uso. 
+
+Tenemos que tener en cuenta que menores de 13 años no pueden registrarse en RRSS [[ver](https://catedu.gitbooks.io/redes-sociales-en-educacion/content/ojo-no-es-legal.html)]
 
   
 ![](img/qrs.png)
