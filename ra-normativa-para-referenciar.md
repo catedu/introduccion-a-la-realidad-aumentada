@@ -22,4 +22,4 @@ Existen varias normativas a la hora de citar trabajos realizados por otros autor
 
 ​
 
-![](img/Google_Expeditions.png)
+![](https://raw.githubusercontent.com/catedu/introduccion-a-la-realidad-aumentada/master/img/Google_Expeditions.png)
