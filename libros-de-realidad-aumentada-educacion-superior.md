@@ -4,27 +4,16 @@
 
 <img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/171/mini-SDC.jpg' alt='' width='130'/>
 
-**SINOPSIS**:  
+**SINOPSIS**:  Visualization and Engineering Design Graphics with Augmented Reality
 
 Permite visualizar los objetos que están descritos en el libro en 3D, integrando los ejercicios del libro con Realidad Aumentada. Ayuda a los futuros ingenieros a aprender el lenguaje de los gráficos de ingeniería. Enfocado a habilidades de visualización y dibujo a mano.  
 
 Editorial: **[SDC](https://www.sdcpublications.com/Textbooks/Visualization-Engineering-Design-Graphics-Augmented/ISBN/978-1-58503-817-6/)**
 
 ---
-
-<img src='img/libro-pie.png' alt='' width='130'/>
-
-**SINOPSIS**:  
-
-Este libro busca darle importancia al aprendizaje autónomo por parte de los lectores. Estos podrán explorar el hueso, músculo, tendón desde todas sus perspectivas posibles, así como aprender mucho mejor cuál es su función y su movimiento.
-
-Editorial: **[AR-Books](http://www.ar-books.com/interior.php?contenido=libro.php&id=5)**
-
----
-
 <img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/171/9788416415731.jpg' alt='' width='130'/>
 
-**SINOPSIS**:
+**SINOPSIS**:Instalaciones Eléctricas interiores
 
 En esta edición podemos encontrar temas como:
 
@@ -38,7 +27,7 @@ Editorial: **[ALTAMAR](https://www.casadellibro.com/libro-instalaciones-electri
 
 <img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/171/9788416415755.jpg' alt='' width='130'/>
 
-**SINOPSIS**:
+**SINOPSIS**: Electrotécnia
 
 En esta edición podemos encontrar temas como:
 
@@ -50,7 +39,7 @@ Editorial: **[ALTAMAR](https://www.casadellibro.com/libro-electrotecnia-grado-m
 
 <img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/171/9788416415748-1.jpg' alt='' width='130'/>
 
-**SINOPSIS**:
+**SINOPSIS**: Automatismos Industriales
 
 En esta edición podemos encontrar temas como:
 
