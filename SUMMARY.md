@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Creator
 
 ## 0. Recursos Educativos Abiertos y Licencias CC
 
