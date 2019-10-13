@@ -6,11 +6,11 @@
 Creator está conectado a una gran comunidad, la cual nos ofrece multitud de recursos para utilizarlos en nuestras creaciones.  
 Puedes ver como funciona este software en la sección de [videotutoriales](https://moodle.catedu.es/mod/book/view.php?id=1000 "Videotutoriales") de este módulo.  
 
-{% youtube %}https://youtu.be/5UrAuRJlRW0{% endyoutube %}
+{% youtube %}https://youtu.be/5UrAuRJlRW0 {% endyoutube %}
 
 ---
 
 ![](img/Scope-marca-300x116.png)Para observar las creaciones, es necesario disponer de un dispositivo móvil y la app SCOPE. Esta app puede encontrarse en las diferentes tiendas tanto de **[Android](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=es)** como de **[IOS](https://apps.apple.com/es/app/scope/id1267294165)**.   
 Puedes ver como funciona esta app en la sección de [videotutoriales](https://moodle.catedu.es/mod/book/view.php?id=1000 "Videotutoriales") de este módulo.
 
-{% youtube %}https://youtu.be/pH5c7EX--9o{% endyoutube %}
+{% youtube %}https://youtu.be/pH5c7EX--9o {% endyoutube %}

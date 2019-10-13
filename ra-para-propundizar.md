@@ -17,8 +17,8 @@ A continuación se presentan algunos vídeos para profundizar más sobre el conc
 
 * **VÍDEO 1**: Entrevista a los creadores del Universo Chromville.
 
-{% youtube %}https://youtu.be/-CTWk1vMfPk{% endyoutube %}
+{% youtube %}https://youtu.be/-CTWk1vMfPk {% endyoutube %}
 
 * **VÍDEO 2**: Entrevista al Doctor Julio Cabero Almenara.
 
-{% youtube %}https://youtu.be/nGOtQQoyYp0{% endyoutube %}
+{% youtube %}https://youtu.be/nGOtQQoyYp0 {% endyoutube %}

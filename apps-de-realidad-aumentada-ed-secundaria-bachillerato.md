@@ -4,8 +4,6 @@
 
 En este capítulo abordaremos algunas de las aplicaciones que para el nivel de Educación Secundaria y Bachillerato podemos encontrar.
 
-<img src='img/unnamed-1.png' alt='20' width='20'/> **[Anatomy 4D](http://anatomy4d.daqri.com/)**: El estudio del cuerpo humano así como uno de los órganos más importantes, el corazón, es lo que nos muestra esta completa herramienta. Utilizando el marcador y las diferentes opciones de visionado, Anatomy 4D, es un gran recurso para el estudio en asignaturas tales como biología. Está disponible en varias plataformas.
-
 <img src='img/Plickers.png' alt='' width='50'/> **[Plickers](https://www.plickers.com/)**: Esta plataforma nos permite gestionar información en forma de preguntas distribuidas por clases. Cada uno de los integrantes tendrá asociado un marcador. Dicho marcador se utilizará para responder a cada pregunta múltiple que se muestre. La app está disponible en varias plataformas.
 
 <img src='img/default.png' alt='' width='50'/> **[Augment](http://www.augment.com/es/)**: Crear nuestro propio material basado en la RA, cada vez es más sencillo. Esta app nos permite realizar estos procesos sin necesidad de realizar programaciones. Posee un gran repositorio de contenidos para ser utilizados. Está disponible en varias plataformas.

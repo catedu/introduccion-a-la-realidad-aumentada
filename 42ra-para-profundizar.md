@@ -11,18 +11,6 @@ A continuación se presentan algunos textos para profundizar más sobre la creac
 
 A continuación se presentan algunos vídeos para profundizar más sobre la creación de contenidos:
 
-* **VÍDEO 1**: Matt Mills y tamara Roukaerts muestran Aurasma en una charla TED.
+* **VÍDEO 1**: Charla TED sobre el uso de los códigos QR en el aula.
 
-{% youtube %}https://youtu.be/frrZbq2LpwI{% endyoutube %}
-
-* **VÍDEO 2**: Tutorial en inglés de Aurasma.
-
-{% youtube %}https://youtu.be/wmAgxvv00RE{% endyoutube %}
-
-* **VÍDEO 3**: Uso de Aumentaty Author.
-
-{% youtube %}https://youtu.be/rq6mIXq-SXo{% endyoutube %}
-
-* **VÍDEO 4**: Charla TED sobre el uso de los códigos QR en el aula.
-
-{% youtube %}https://youtu.be/NRgWRXFXLQs{% endyoutube %}
+{% youtube %}https://youtu.be/NRgWRXFXLQs {% endyoutube %}

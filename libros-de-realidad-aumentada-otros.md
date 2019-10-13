@@ -2,8 +2,6 @@
 
 ### 5\. Otros
 
-<img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/450/9788426726186.jpg' alt='' width='130'/>
-
 **SINOPSIS**: Aumenta tu empresa con la realidad aumentada y la realidad virtual
 
 Aumenta tu empresa te proporciona una lectura sencilla, amena y totalmente práctica. Está escrito para todos los públicos, listo para ser aplicado inmediatamente en el ámbito profesional. Es el libro imprescindible para directores de marketing, de innovación, comerciales, consultores, creativos, emprendedores y gerentes en general.
@@ -11,8 +9,6 @@ Aumenta tu empresa te proporciona una lectura sencilla, amena y totalmente prác
 Editorial: **[MARCOMBO](https://www.marcombo.com/aumenta-tu-empresa-con-la-realidad-aumentada-y-la-realidad-virtual-9788426726186/)**
 
 ---
-
-<img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/450/51baqtsKrzL._SX387_BO1%2C204%2C203%2C200_.jpg' alt='' width='130'/>
 
 **SINOPSIS**: Realidad Aumentada. Crea tus propias aplicaciones
 
@@ -23,8 +19,6 @@ Editorial: **[ANAYA](https://www.amazon.es/Realidad-Aumentada-propias-aplicacio
 
 ---
 
-<img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/450/51Oxu4zLQFL._SX401_BO1%2C204%2C203%2C200_.jpg' alt='' width='130'/>
-
 **SINOPSIS**: Realidad aumentada. Tecnología para la formación
 
 El diseño de [recursos](https://moodle.catedu.es/mod/book/view.php?id=995 "Recursos") de Realidad Aumentada (RA) produce una nueva realidad donde una capa de información digital se mezcla con el entorno físico del observador, aumentando de forma coherente la percepción de la realidad. Los requisitos técnicos para experimentar este tipo de realidad mixta están actualmente al alcance de todos los públicos, lo que facilita la implantación y extensión de esta tecnología.  
@@ -33,8 +27,6 @@ El diseño de [recursos](https://moodle.catedu.es/mod/book/view.php?id=995 "Recu
 Editorial: **[SINTESIS](https://www.amazon.es/aumentada-Tecnolog%C3%ADa-formaci%C3%B3n-Educaci%C3%B3n-Educativa/dp/8490772584)**
 
 ---
-
-<img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/450/recursos.paraninfo.jpg' alt='' width='130'/>
 
 **SINOPSIS**: La realidad aumentada como herramienta educativa
 

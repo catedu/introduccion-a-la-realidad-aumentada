@@ -15,8 +15,8 @@ A continuación se presentan algunos vídeos [para profundizar](https://moodle.c
 
 * **VÍDEO 1**: En este vídeo nos explican qué es la geolocalización y sus sorprendentes usos.
 
-{% youtube %}https://youtu.be/TCdUHeiriCU{% endyoutube %}
+{% youtube %}https://youtu.be/TCdUHeiriCU {% endyoutube %}
 
 * **VÍDEO 2**: Funcionamiento de la app de GeoAumentaty
 
-{% youtube %}https://youtu.be/vrYfUlufEuo{% endyoutube %}
+{% youtube %}https://youtu.be/vrYfUlufEuo {% endyoutube %}

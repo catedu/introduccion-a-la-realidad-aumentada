@@ -2,7 +2,6 @@
 
 ### 3\. Educación Superior
 
-<img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/171/mini-SDC.jpg' alt='' width='130'/>
 
 **SINOPSIS**:  Visualization and Engineering Design Graphics with Augmented Reality
 
@@ -11,7 +10,6 @@ Permite visualizar los objetos que están descritos en el libro en 3D, integrand
 Editorial: **[SDC](https://www.sdcpublications.com/Textbooks/Visualization-Engineering-Design-Graphics-Augmented/ISBN/978-1-58503-817-6/)**
 
 ---
-<img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/171/9788416415731.jpg' alt='' width='130'/>
 
 **SINOPSIS**:Instalaciones Eléctricas interiores
 
@@ -25,8 +23,6 @@ Editorial: **[ALTAMAR](https://www.casadellibro.com/libro-instalaciones-electri
 
 ---
 
-<img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/171/9788416415755.jpg' alt='' width='130'/>
-
 **SINOPSIS**: Electrotécnia
 
 En esta edición podemos encontrar temas como:
@@ -36,8 +32,6 @@ Electrotecnia, [conceptos básicos](https://moodle.catedu.es/mod/book/view.php?i
 Editorial: **[ALTAMAR](https://www.casadellibro.com/libro-electrotecnia-grado-medio-ciclos-formativos/9788416415755/5803351)**
 
 ---
-
-<img src='https://moodle.catedu.es/pluginfile.php/31204/mod_book/chapter/171/9788416415748-1.jpg' alt='' width='130'/>
 
 **SINOPSIS**: Automatismos Industriales
 
