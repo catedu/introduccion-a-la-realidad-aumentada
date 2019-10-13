@@ -58,6 +58,8 @@
 ## 7. Geolocalización
 
 * [Introducción a la geolocalización](ra-introduccion-a-la-geolocalizacion.md)
+* [Uso de Creator](uso-de-creator.md)
+* [App de Interés](app-de-interes.md)
 * [RA: Para profundizar](48ra-para-profundizar.md)
 
 ## 8. Realidad Virtual
