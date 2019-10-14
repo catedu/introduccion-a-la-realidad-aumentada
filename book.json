@@ -28,7 +28,7 @@
             "filename": "./FOOTER.md"
         },
         "edit-link": {
-            "base": "Edita esta página",
+            "base": "https://github.com/catedu/introduccion-a-la-realidad-aumentada/edit/master/",
             "label": "Edita esta página"
         },
         "githubcontributors": {
