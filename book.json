@@ -1,39 +1,43 @@
 {
-    "plugins": [
-        "youtube",
-        "accordion",
-        "image-captions",
-        "styled-blockquotes",
-        "localized-footer",
-        "edit-link",
-        "githubcontributors"
-    ],
-    "language": "es",
-    "variables": {
-        "title": "Introducción a la Realidad Aumentada",
-        "author": "Ibán de la Horra Villacé",
-        "collaborators": [
-            {
-                "name": "_________",
-                "edited": "_____________"
-            }
-        ]
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Introducción a la Realidad Aumentada",
+    "author": "Ibán de la Horra Villacé",
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
     },
-    "pluginsConfig": {
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "edit-link": {
-            "base": "https://github.com/catedu/introduccion-a-la-realidad-aumentada/edit/master/",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "introduccion-a-la-realidad-aumentada"
-        }
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/introduccion-a-la-realidad-aumentada/edit/master/",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "introduccion-a-la-realidad-aumentada"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }
