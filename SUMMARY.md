@@ -7,6 +7,7 @@
 * [Recursos Educativos Abiertos \(REA\)](ra-recursos-educativos-abiertos-rea.md)
 * [Licencias CC](ra-licencias-cc.md)
 * [Normativa para referenciar](ra-normativa-para-referenciar.md)
+* [Imágenes](dondeimagenes.md)
 
 ## 1. Introducción a la Realidad Aumentada
 
