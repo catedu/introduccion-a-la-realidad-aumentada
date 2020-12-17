@@ -13,6 +13,6 @@ Organización sin ánimo de lucro fundada en 2001 y que nace para compartir y r
 
 En este **[enlace](https://creativecommons.org/licenses/?lang=es_ES)** podrás acceder a los tipos de licencias que ofrece Creative Commons. El **[asistente](https://creativecommons.org/choose/?lang=es)** que ofrece esta plataforma facilita de forma sencilla, el proceso de selección de la licencia.
 
-Simplemente tienes que elegir la liencia que quieras y pegarla en tu obra (digital o papel) ¿Qué pasa si en una obra no aparece ninguna licencia? Pues que tiene todos los derechos reservados.
+Simplemente tienes que elegir la liencia que quieras y pegarla en tu obra (digital o papel) ¿Qué pasa si en una obra no aparece ninguna licencia? Pues que tiene todos los derechos reservados *(excepto casos especiales, por ejemplo una obra de arte de más de 150 años)*.
 
 {% youtube %}https://youtu.be/dAfkDSRBfZU{% endyoutube %}
