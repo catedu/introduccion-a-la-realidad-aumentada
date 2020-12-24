@@ -12,16 +12,6 @@ Invertir el menor tiempo posible en la búsqueda de información para generar nu
 
 En este apartado se destacan algunos de los repositorios de contenidos más importantes que existen en la actualidad.
 
-* **_[PROCOMUN](https://procomun.educalab.es/)_**: En el Espacio Procomún Educativo se encuentra el repositorio de [Recursos](https://moodle.catedu.es/mod/book/view.php?id=995 "Recursos") Educativos Abiertos (REA) creado por el MECD y las Comunidades Autónomas, en el que la comunidad educativa puede encontrar y crear material didáctico estructurado, clasificado de forma estandarizada (LOM-ES), preparado para su descarga y uso directo por el profesorado y el alumnado.
-    
-* **_[OERCOMMONS](https://www.oercommons.org/)_**: [Recursos](https://moodle.catedu.es/mod/book/view.php?id=995 "Recursos") y colecciones de [recursos](https://moodle.catedu.es/mod/book/view.php?id=995 "Recursos") digitales.
-    
-* **_[AGREGA](http://agrega2.red.es/visualizadorcontenidos2/Portada/Portada.do)_**: Buscador de contenidos REA que permite de forma sencilla obtener [recursos](https://moodle.catedu.es/mod/book/view.php?id=995 "Recursos") de forma estandarizada.
-    
-* **_[UOC Open Course Ware](http://openaccess.uoc.edu/webapps/o2/)_**:  Sitio web a través del cual la UOC ofrece sus materiales docentes para la comunidad de Internet 
-    
-* **_[INTERNET ARCHIVE](https://archive.org/)_**: Biblioteca sin fines lucrativos que cuenta con millones de libros gratis, películas, música, software, etc..
-    
-* **_[EUROPEANA](http://www.europeana.eu/portal/es)_**: permite explorar los [recursos](https://moodle.catedu.es/mod/book/view.php?id=995 "Recursos") digitales de los museos, bibliotecas, archivos y colecciones audiovisuales de Europa.
-    
-* **_[PROYECTO GUTENBERG](http://www.gutenberg.org/)_**: Biblioteca en la que se pueden encontrar miles de libros digitalizados.
+https://padlet.com/CATEDU/RECURSOS
+
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/wr2bjtpg1nql" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="padding:8px;text-align:right;margin:0;"><a href="https://padlet.com?ref=embed" style="padding:0;margin:0;border:none;display:block;line-height:1;height:16px" target="_blank"><img src="https://padlet.net/embeds/made_with_padlet.png" width="86" height="16" style="padding:0;margin:0;background:none;border:none;display:inline;box-shadow:none" alt="Hecho con Padlet"></a></div></div>
