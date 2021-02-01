@@ -2,7 +2,7 @@
 
 La Organización para la Cooperación y el Desarrollo Económicos (OCDE) define a los REA como: "materiales digitalizados ofrecidos libres y abiertos a educadores, estudiantes y autodidactas para su uso y reutilización en la enseñanza, el aprendizaje, y la investigación. REA incluye contenidos de aprendizaje, herramientas de software para desarrollar, utilizar y distribuir contenidos y [recursos](https://moodle.catedu.es/mod/book/view.php?id=995 "Recursos") de implementación, como las licencias abiertas".
 
-{% youtube %}https://youtu.be/KibyRbDFvVE{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=5wE1I-ZCNBs&feature=emb_logo{% endyoutube %}
 
 Invertir el menor tiempo posible en la búsqueda de información para generar nuestros contenidos mejorará la calidad de estos ya dispondremos de más tiempo para la elaboración de los mismos. Por otro lado, y siguiendo la filosofía de la web 2.0 en la que compartir es el pilar fundamental, podemos encontrar materiales que a otros docentes les hayan servido en su aula. Estos, adaptados a nuestras necesidades reducirán el tiempo empleado así como proporcionará una fiabilidad ya probada con otros usuarios. 
 
